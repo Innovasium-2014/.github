@@ -1,6 +1,9 @@
-# <Title>
+# <PR Title>
   
-# Description
+## Description
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context.
+Please include a high-level summary of the feature or fix. Please also include relevant motivation and context.
 
+## Changes
+  
+Please include a bullet point list outlining technical details of the changes within this PR.
