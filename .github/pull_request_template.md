@@ -4,4 +4,5 @@ Please include a high-level summary of the feature or fix. Please also include r
 
 ## Changes
   
-Please include a bullet point list outlining technical details of the changes within this PR.
+- Feature implemented
+- Bug fixed
